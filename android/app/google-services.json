@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818616194821",
+    "project_id": "klasp-d241f",
+    "storage_bucket": "klasp-d241f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818616194821:android:91ffb9c8e36ff2b48b496c",
+        "android_client_info": {
+          "package_name": "com.company.flutterai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBax0dj71xWaqnrYRN9ECJYQPlMYS_z7SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
